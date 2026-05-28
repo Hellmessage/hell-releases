@@ -4,6 +4,10 @@
 
 - 自动发布. 详见 [GitHub Release](https://github.com/Hellmessage/hell-releases/releases/tag/htun-v0.6.2)
 
+## [0.6.2] — 2026-05-28
+
+- 自动发布. 详见 [GitHub Release](https://github.com/Hellmessage/hell-releases/releases/tag/htun-v0.6.2)
+
 ## [0.6.1] — 2026-05-28
 
 - 自动发布. 详见 [GitHub Release](https://github.com/Hellmessage/hell-releases/releases/tag/htun-v0.6.1)
