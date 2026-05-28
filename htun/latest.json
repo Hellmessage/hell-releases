@@ -1,21 +1,21 @@
 {
   "tool": "htun",
   "channel": "stable",
-  "version": "0.6.2",
-  "tag": "htun-v0.6.2",
-  "released_at": "2026-05-28T07:47:55Z",
-  "notes_url": "https://github.com/Hellmessage/hell-releases/releases/tag/htun-v0.6.2",
+  "version": "0.6.3",
+  "tag": "htun-v0.6.3",
+  "released_at": "2026-05-28T07:48:54Z",
+  "notes_url": "https://github.com/Hellmessage/hell-releases/releases/tag/htun-v0.6.3",
   "assets": [
     {
       "platform": "windows/amd64",
-      "url": "https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.6.2/htun-windows-amd64.exe",
-      "sha256": "c72292f636683637261fa1debf7f3fad514387696add164a1e555ebb486b2f93",
+      "url": "https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.6.3/htun-windows-amd64.exe",
+      "sha256": "4c4d629759f130816b90999e71d70404abf9be2fbfdde4387638e4b1bd88c82a",
       "size": 49256448
     },
     {
       "platform": "windows/arm64",
-      "url": "https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.6.2/htun-windows-arm64.exe",
-      "sha256": "44b77d4b1dc7bbb28db06c23233379e7fa966cef31401920f83ea6ee8ed75a9c",
+      "url": "https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.6.3/htun-windows-arm64.exe",
+      "sha256": "cdffc335a473e064de837bae44d495b52b441a966184fc4214fe994ab5fcefad",
       "size": 45118464
     }
   ]
