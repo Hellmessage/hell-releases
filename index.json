@@ -1,0 +1,12 @@
+{
+  "$comment": "工具清单. 新增工具时在 tools[] 加一项, CI 不维护这个文件, 是手工 commit. schema 详见 MANIFEST.md.",
+  "tools": [
+    {
+      "name": "htun",
+      "description": "Windows TUN 全局代理 (Wintun + mihomo, 单 exe 自包含)",
+      "manifest": "htun/latest.json",
+      "platforms": ["windows/amd64", "windows/arm64"],
+      "page": "htun/"
+    }
+  ]
+}
