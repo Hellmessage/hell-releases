@@ -6,14 +6,14 @@
 
 ## 下载
 
-> 首次发布前此处为空. CI 在 push tag `htun-vX.Y.Z` 时自动上传双架构 exe.
+当前版本 **v0.7.0** — 选对应架构下载, 单 exe 自包含, 双击即用:
 
 | 架构 | 下载 |
 | --- | --- |
-| Windows x64 (amd64) | _尚未发布_ |
-| Windows ARM64 (arm64) | _尚未发布_ |
+| Windows x64 (amd64) | [htun-windows-amd64.exe](https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.7.0/htun-windows-amd64.exe) |
+| Windows ARM64 (arm64) | [htun-windows-arm64.exe](https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.7.0/htun-windows-arm64.exe) |
 
-最新版本及校验信息以 [`latest.json`](latest.json) 为准 (机器可读, 自升级模块用得上).
+最新版本及校验信息 (sha256) 以 [`latest.json`](latest.json) 为准 (机器可读, 自升级模块用得上); 历史版本见 [Releases](https://github.com/Hellmessage/hell-releases/releases).
 
 ## 截图
 

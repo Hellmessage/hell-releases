@@ -1,0 +1,22 @@
+{
+  "tool": "htun",
+  "channel": "stable",
+  "version": "0.7.0",
+  "tag": "htun-v0.7.0",
+  "released_at": "2026-06-03T14:07:28Z",
+  "notes_url": "https://github.com/Hellmessage/hell-releases/releases/tag/htun-v0.7.0",
+  "assets": [
+    {
+      "platform": "windows/amd64",
+      "url": "https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.7.0/htun-windows-amd64.exe",
+      "sha256": "28eae21387f3a4ec2e21d366997a575b89f2a1150b73e2742e3c904ad5217403",
+      "size": 49262080
+    },
+    {
+      "platform": "windows/arm64",
+      "url": "https://github.com/Hellmessage/hell-releases/releases/download/htun-v0.7.0/htun-windows-arm64.exe",
+      "sha256": "2f4b8e21701772faac6a6a09738e762d22f9218973820ff9d6a2d01772b26af7",
+      "size": 45123584
+    }
+  ]
+}
