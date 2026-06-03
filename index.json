@@ -7,6 +7,13 @@
       "manifest": "htun/latest.json",
       "platforms": ["windows/amd64", "windows/arm64"],
       "page": "htun/"
+    },
+    {
+      "name": "hproxy",
+      "description": "Linux TUN→VLESS(REALITY+Vision) 透明分流代理 CLI (内嵌 sing-box, 单一静态二进制)",
+      "manifest": "hproxy/latest.json",
+      "platforms": ["linux/amd64", "linux/arm64"],
+      "page": "hproxy/"
     }
   ]
 }

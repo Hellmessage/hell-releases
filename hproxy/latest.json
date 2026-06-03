@@ -1,0 +1,22 @@
+{
+  "tool": "hproxy",
+  "channel": "stable",
+  "version": "0.1.0",
+  "tag": "hproxy-v0.1.0",
+  "released_at": "2026-06-03T12:04:29Z",
+  "notes_url": "https://github.com/Hellmessage/hell-releases/releases/tag/hproxy-v0.1.0",
+  "assets": [
+    {
+      "platform": "linux/amd64",
+      "url": "https://github.com/Hellmessage/hell-releases/releases/download/hproxy-v0.1.0/hproxy-linux-amd64",
+      "sha256": "424644bea62c85de4642f04c9ec86bab8ce4cd1b8278fbb3d80957edf1ed5795",
+      "size": 29417634
+    },
+    {
+      "platform": "linux/arm64",
+      "url": "https://github.com/Hellmessage/hell-releases/releases/download/hproxy-v0.1.0/hproxy-linux-arm64",
+      "sha256": "9368c670645a47162fef6270cd5284506af7da4a9d7ca8128818d88e7eef1c8a",
+      "size": 27328674
+    }
+  ]
+}

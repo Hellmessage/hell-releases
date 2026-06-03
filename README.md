@@ -8,7 +8,8 @@ Hellmessage 开发的所有工具的**发行总仓**与**版本台账**.
 
 | 工具 | 简介 | 平台 | 当前版本 | 入口 |
 | --- | --- | --- | --- | --- |
-| [htun](htun/) | Windows TUN 全局代理 (Wintun + mihomo, 单 exe 自包含) | windows/amd64, windows/arm64 | _尚未发布_ | [htun/](htun/) |
+| [htun](htun/) | Windows TUN 全局代理 (Wintun + mihomo, 单 exe 自包含) | windows/amd64, windows/arm64 | v0.7.0 | [htun/](htun/) |
+| [hproxy](hproxy/) | Linux TUN→VLESS(REALITY+Vision) 透明分流代理 CLI (内嵌 sing-box, 单一静态二进制) | linux/amd64, linux/arm64 | v0.1.0 | [hproxy/](hproxy/) |
 
 > 新工具上线后, 在本表追加一行, 并在仓内开 `<tool>/` 子目录 (README + CHANGELOG + assets + 由 CI 维护的 `latest.json`).
 
